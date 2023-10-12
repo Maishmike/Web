@@ -1,0 +1,39 @@
+body{
+    background-color: #3C599B;
+    font-family: "Trebuchet MS",sans-serif;
+}
+.cont1{
+    background-color: #FEFFFE;
+    margin-left: 470px;
+    margin-right: 470px;
+    margin-top: 50px;
+    padding: 20px;
+    border-bottom: 4px  solid #2E4070;
+}
+.formbody{
+    margin: 1px 4px 7px 1px;
+    border: 3px solid #F9F9F8;
+    padding: 20px 40px;
+}
+.center{
+    text-align: center;
+}
+select{
+    background-color: #A3AB59;
+    color: #EEE85B;
+    width: 100%;
+    padding-left: 7px;
+}
+option:hover{
+    color: white;
+    background-color: #1D90FE;
+}
+input{
+    width: 100%;
+}
+h2{
+    color: #040000;
+}
+label{
+    color: #181200;
+}

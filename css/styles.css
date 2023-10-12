@@ -1,0 +1,56 @@
+table,tr,th,td {
+    border-bottom: 1px solid black;
+    color: black;
+    text-align: left;
+    font-size: 25px;
+}
+.table1{
+    width:100%;
+    border-collapse:collapse;
+}
+tr:hover{
+    background-color: aqua;
+}
+.home_body{
+    background-color: #2aa580;
+    text-align: center;
+}
+.form_body{
+    background-color: rgba(167,95,42,0.4);
+    font-size: 20px;
+}
+.form2_body{
+    background-color: rgba(255, 215, 0, 0.6);
+}
+.table_body{
+    background-color:hsla(120,100%,50%,0.3);
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-family: "Bodoni MT Black", serif;
+    font-style: italic;
+}
+a:hover{
+    font-size: 38px;
+    color: #165d75;
+    font-family: "Bauhaus 93",sans-serif;
+    font-style: normal;
+}
+h1{
+    font-family: Algerian,sans-serif;
+}
+h2{
+    font-family: "Felix Titling",sans-serif;
+}
+h3{
+    font-family: "Old English Text MT",sans-serif;
+}
+.login_body{
+    background-color: rgba(11, 122, 232, 0.3);
+    text-align: center;
+}
+.loginform{
+    width: 20%;
+}
